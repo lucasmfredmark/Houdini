@@ -1,0 +1,12 @@
+.---------.
+|xx   xxx |
+|  x  xxxx|
+|xx   x x |
+| x  x xx |
+|  x @  x |
+|xxx  x  x|
+|x x     x|
+|x xxxxx  |
+|xxx xxx  |
+'---------'
+solve using at most 4 moves

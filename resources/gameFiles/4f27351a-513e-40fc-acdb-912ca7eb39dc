@@ -1,0 +1,24 @@
+.---------------------.
+|x x    xx x    xxx x |
+|xxx xx x  xxx x      |
+| x xxxx x x  xxx  xx |
+|xx   xxxxx  xx x   x |
+|    x         xx xxx |
+| x   xx x xx  xx    x|
+|x x x x   xx xxx xxx |
+|x x x x  xxxxx   x x |
+| xxx xx x x  xxxx    |
+| xx xxx x xxxxxx     |
+| xxx  xxxx@ x       x|
+| x   xx  xx   x x x x|
+|x     x xxxx   x  xxx|
+|xxx x    x  xxxxxx   |
+|  xxx  xx x x x  xx  |
+|x   xxx    x  xx x xx|
+| xx     x x xx  x  x |
+|   x  xxxx  xxxxx  x |
+| x xxxxxxx  x   x    |
+| xxxxxxxxxxx xxx  xx |
+|xxx xx   xx x xxx  xx|
+'---------------------'
+solve using at most 10 moves

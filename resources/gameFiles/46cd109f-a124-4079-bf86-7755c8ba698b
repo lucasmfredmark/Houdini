@@ -1,0 +1,20 @@
+.-----------------.
+|xx xxxxx   x xxx |
+|xxx x  xx  x x  x|
+|xx x   x   x xx x|
+| x xxxxx x   xxx |
+|   x  x   x x xx |
+| xxxxxx    x   x |
+| xx x   xxxxx x x|
+|        xxxxx x  |
+|xx xxxx @  x xxx |
+|xxxxx x  xx x xx |
+|xxx  xxx   xxxx  |
+|    xxxx   x  x x|
+|xxx xxx x x  xx  |
+|x  xxx  xxx xx  x|
+|x   xx  x  x  x  |
+|x x    xx  xxx x |
+|  x x      x  x  |
+'-----------------'
+solve using at most 8 moves

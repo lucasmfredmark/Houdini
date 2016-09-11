@@ -1,0 +1,18 @@
+.---------------.
+|x x x  xxxx    |
+|xx     xxx x  x|
+| xx xxx x x    |
+|x  xx x x xxxx |
+|x x x xx xxx xx|
+|xx  xx   x  xxx|
+| xxxxx   xxx  x|
+|x x x x@    xxx|
+| xx x x x x    |
+|x x   xx    x  |
+|x x xx     x   |
+|  xxxxx xxx x  |
+|  x  xxx xx    |
+|    xxxx x xxxx|
+| xxx x x xxx   |
+'---------------'
+solve using at most 7 moves

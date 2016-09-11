@@ -1,0 +1,36 @@
+.---------------------------------.
+|xx    x x  xxxxxx xxxx x  x  xxx |
+|x   x  xx  x xxx xxxx  x xxxx x x|
+|xxx     xx xxx xxxx xx xxxxxx x  |
+|x x  xxx    xxxx xxxxxx x x x  x |
+|xxx  x  x xxx  xxx  x   xxxxxxx  |
+|x  x x x x  x xx   xxx x   x  xx |
+|x  x x xx xx  x         x    xx x|
+|x     x    x  x xxx  x x xx  xx  |
+| xx x x xxx   xxx  x xx x   x xxx|
+|x  x  xxxx   x xxxx   xx x x  x x|
+| x  xxx xxx     xx     x    x  xx|
+|x   x  x x     xx      x    x   x|
+|xx   x  x     xx xxx xxxx x xxxxx|
+|x  xx  x x x      xx x  x   x xx |
+| xxxx x xx   xxxxx   xxxxxx xx x |
+|    x x xx  x   x         xxxxxxx|
+|xxxxx   x  x    @  xxxx  x  x   x|
+|xx xxxx xx xx xxxx xxx  x   xx  x|
+| xxx  xxxx  xxxx   x xx  xxx     |
+|xxx  xx   xxxxx      xx   x   xx |
+|x  x x   xx xx   x   xx xx  xxx x|
+| x  xxxx  x  x    x x xx xxx  xx |
+|xx xx   x xx  xxx x xxx   xxx x x|
+| x  xx  x x x  x       xx  xxxx x|
+|  x  x xx      xxx x x xx    xxx |
+| x  xx xx   x      x xx  x xxx xx|
+| xxxxxxxxxxx x x xxx  xx  x xxx  |
+| xx x x  xxxx xx xxxxx xx x x  xx|
+|xx  xx  x x x   xxxx x x xx  x  x|
+| x xx xx    xx xxx xxxxx   x   x |
+|      xxxx x  x  xxx  x xxxxxx   |
+|  xx x     x x      xx   xxx xxxx|
+|xx  xx   xx xxxxx  xx     x  x x |
+'---------------------------------'
+solve using at most 16 moves

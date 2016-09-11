@@ -1,0 +1,14 @@
+.-----------.
+|    x  x xx|
+|  x x  x x |
+|x x xx   xx|
+|x x x x    |
+|    xx xxxx|
+|xx  x@x x x|
+|xx x  xxxxx|
+|  x x   xxx|
+|xxxxxx    x|
+|x  xxx   x |
+| xxx  xx   |
+'-----------'
+solve using at most 5 moves

@@ -1,0 +1,52 @@
+.-------------------------------------------------.
+|x xxx x x     xxxx     xx    xxxxx xx x xx    xx |
+| x xx x xx   x xx x x    xx  xx x xxxxxxx xxxxxx |
+|xx x   x xx xxx x xx xx x xx   x xxxxx x  x     x|
+|    x  x xxx   x xxx    xxx xx    xxx xx x  x  x |
+|xx      x xx  xxx xx   x  xx    x xxxx xx xx x  x|
+|x  xxx x  x xx  x xx  xx  xxx xx x   xx  x x xx  |
+|    x x x  xxxx xx x  x xxx x x xxx xxx x  xx x  |
+|   x   xx xx x   x        x   xxx  xx  xxxxx     |
+|  xxx      x xxx  xx  x    x x x  xxx xxx  xxxxxx|
+|xx   xx xx      x  xx xxx x    x xxxxx  xxxxxxxx |
+| xxxx  x xxx xx  xx xx  xx    xxx x    x  xxx   x|
+|x x x xxxx  x x    xx xx x xx xxxxxx  xxx   x x  |
+|xx x x xx   xx       xxx   xx x  x x xxx  x x  x |
+|xx xxxxxxxx x  xxx    x x  xx x xxx   xx  x xx xx|
+|   x  xx   xx xx       xxxxxx   x x x x x      xx|
+| xxxx  xxx      xx xxx      x  xx x  x xx x x  x |
+|xxxxxxx  xxx   xx     xxxxxx xxxx   xx x  xx x  x|
+| xx xx  xxxxx x xx xxx  x xxx  x     xxxxxx x  x |
+|  x x xx xx x xx xx xx    xxx xx     xx x  x  x  |
+|     x  x xx  x x   x xxx   xx xxxxxx   xx    x x|
+| x xxxxxx xxx  xxxx  xx      xx x x x    xxx    x|
+|xxx xxx xxxxx  xx  xxxxxxxxxxxxx x  x x  xx  x x |
+|x x   x  x  x x  xx x xx  x  x xxx x x xxxx xxx  |
+|x xxx  x   xx  xx     xxxx  xxxx xxx     xx xxx  |
+| xxxxx  xx  x  x   x    @x x xx x     xxx   xxx x|
+| xxx xxx x   x   xxx x  x    xx        xx  xxx xx|
+|x x  x   x    xx x    x xx xx    xx xx x  x x xxx|
+|xx x xxxx xxxx   xxx   x  x    x  xxx        x  x|
+| xx x xxx xxx   xx xxx x   x   x xx    x x      x|
+|x xx  xx  xxx  x xx x xx x xx xxx    xx  x   xxx |
+|xxxxx          xx  xx  xxxx  xxxxxxx xxx xxxx  x |
+| x x  x  xxx    xxxxx xxx  x  x  xx x    x  x x  |
+|xx   xxxx   x x x   x   xxx xxx x xx xxxx x  xxxx|
+| x    xxxx xxxx xx  xxx   x xx  xxxxx  xx x xxx  |
+|     xxxx xx xx   x xx  x x xxxxx x x  xx    x xx|
+| x      xxxxx  xx xxx    x x  x    x  x     xxx  |
+| x xxx       x xx xx    xxxxxx  x   xxx   xxx    |
+|   x  x x   x    xx x x  xxxxx  x   x   x      xx|
+|     xxxxxx xxx xx x xxx  x xxxxxx x  x x   x  x |
+|   x   xx  x     xx xxx  x xxx x x x  xxxxx  x  x|
+|x   x xxxx  x    xx    x x    xxx xx xx    xxxxxx|
+|xx  xx xxx x x xxxxx xx  x x x xxx xx      xx    |
+|x xxxxx   x   xxx  x  xx  xxxx  xx  x  xx   x xx |
+| xxxxxx  x  xx xx xx     x x x xxxxx    x x  x  x|
+| x xx x     xxxxx      x  x x xxxx  xx x xx      |
+|  xxxxxxxxx x  xxx x x x xxx xxx x xx x     xxx x|
+|x x x x xx x  x x    x    xx     x xx    x xx   x|
+|x xx  xx x x  x     x xxxxx  xx     xx x x xxxx  |
+| x  xxxxxx xxxx xx     x x xxx   xxx x xx xxxx  x|
+'-------------------------------------------------'
+solve using at most 24 moves

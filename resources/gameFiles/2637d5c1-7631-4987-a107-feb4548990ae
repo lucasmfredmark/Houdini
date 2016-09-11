@@ -1,0 +1,28 @@
+.-------------------------.
+| x     x  x      x x  xxx|
+|x x   x  xxx    x   x x  |
+| xxxx   x xx    x  x xx x|
+|xx x      x  xxxxxx x x  |
+|xx x  xx xx x xxxxxxx xx |
+| xx  x  x   x  x  xxx  x |
+|  x x x x  x xxxx xxxx  x|
+|     xxxxxx x xxx xx    x|
+| x   xxx x  x xxxx  xxxxx|
+| xx   xxx  x  xx x xxxx x|
+| x x x    xxxx xxxxxx x  |
+|xx xx  x xx    xx xxxxx  |
+|xx    xx x  @ x  x   xxx |
+|   xxx xxx x        x  xx|
+|x  x   xx x xx x  xx x   |
+|xx x x  xxxxx   xxxxx   x|
+|xx xx x x xxxx  xx   xx  |
+|xx    x  xxxxxx x xxxx xx|
+|x x    x     xxxx    x x |
+| xx  xxxxxxx x x    xx x |
+|xxx    xx x x xx  xx    x|
+|x x x x x     x  xxx    x|
+|xxxxx  x  x xxxxxxx xxx x|
+|xxxxx x x x     x    x  x|
+|  x x  x x x xxx   x    x|
+'-------------------------'
+solve using at most 12 moves

@@ -1,0 +1,16 @@
+.-------------.
+|xxxx x    x  |
+|xx xx xxx  xx|
+|xx  x xxx  xx|
+|x    x  x  xx|
+| x  x  xx x  |
+|x    x x xx  |
+|  xx  @ x   x|
+|  x x x   x x|
+|xxxx x xxxx  |
+|xxx  xxxxxx  |
+|  x  xx x xx |
+| x x     x xx|
+|  xx x xx xxx|
+'-------------'
+solve using at most 6 moves
